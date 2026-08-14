@@ -61,9 +61,12 @@ My work includes experimenting with and developing systems for:
 
 ## Background
 
-🎓 **B.Sc. in Electrical Engineering**
+🎓 **B.Sc. in Electrical Engineering**  
+🎓 **M.Sc. in Sound Engineering — Signal Processing & AI**
 
-My engineering background includes signal processing, electronics, and electrical systems, which later led me toward machine learning and speech technology.
+My academic background combines Electrical Engineering and Sound Engineering, with a focus on signal processing, artificial intelligence, speech, and audio technologies.
+
+This background led me toward research and development in Speech & Audio AI, including Text-to-Speech, Automatic Speech Recognition, Voice Conversion, and generative speech systems.
 
 ---
 
