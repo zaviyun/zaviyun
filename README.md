@@ -35,7 +35,6 @@ Currently, I'm focused on researching and building speech AI systems, particular
 My work includes experimenting with and developing systems for:
 
 - Text-to-Speech
-- Speech Recognition
 - Voice Conversion
 - Speech dataset development
 - Phoneme and pronunciation modeling
@@ -47,11 +46,7 @@ My work includes experimenting with and developing systems for:
 
 **Programming & ML**
 
-`Python` · `PyTorch` · `TensorFlow` · `CUDA`
-
-**Engineering & Infrastructure**
-
-`Linux` · `Docker` · `Git`
+`Python` · `PyTorch` · `TensorFlow` · `MATLAB` · `C++`
 
 **Speech & Audio**
 
