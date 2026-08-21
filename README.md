@@ -73,9 +73,9 @@ I believe the best AI systems are built by engineers who understand both the **t
 
 ## Let's Connect
 
-📧 amin.aslanzadeh.m@gmail.com
-🌐 [GitHub](https://github.com/Zaviyun) — you're already here!
-💼 LinkedIn — 
+- 📧 amin.aslanzadeh.m@gmail.com
+- 🌐 [GitHub](https://github.com/Zaviyun) — you're already here!
+- 💼 LinkedIn — 
 
 ---
 
