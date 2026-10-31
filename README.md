@@ -96,10 +96,21 @@ Alongside engineering and research, I have experience in communicating technical
 
 ---
 
-## Background
+## Education
 
 - 🎓 **B.Sc. in Electrical Engineering** — Electronics, Telecommunications & Power
 - 🎓 **M.Sc. in Sound Engineering** — Signal Processing & AI
+
+---
+
+## Future Research Interests
+
+☀️ Exploring the intersection of artificial intelligence, engineering, and optimization, particularly in:
+
+- Renewable Energy Systems and Solar Energy.
+- Intelligent Energy Management.
+- Energy Consumption Optimization.
+- AI-driven Engineering Solutions.
 
 ---
 
